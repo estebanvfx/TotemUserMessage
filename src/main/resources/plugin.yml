@@ -1,0 +1,8 @@
+main: tum.estebanvfx.Main
+name: TotemUserMessage
+version: 0.0.1
+description: Plugin para enviar mensaje cada vez que el jugador usa un totem
+commands:
+  live:
+    description: Regenera vida
+    usage: /live
